@@ -8,3 +8,5 @@ get '/reversename/:name'
 end
 get '/square/:number'
 @number = 
+end
+
