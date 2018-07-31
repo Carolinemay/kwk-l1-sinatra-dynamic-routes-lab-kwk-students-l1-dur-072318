@@ -9,4 +9,5 @@ end
 get '/square/:number'
 @number = params 
 end
-
+get '/say/:number/:phrase'
+@number =
