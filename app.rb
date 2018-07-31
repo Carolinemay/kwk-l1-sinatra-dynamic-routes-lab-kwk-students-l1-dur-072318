@@ -7,7 +7,7 @@ get '/reversename/:name'
 
 end
 get '/square/:number'
-@number = params 
+@number = params
 end
 get '/say/:number/:phrase'
-@number =
+@number = params
